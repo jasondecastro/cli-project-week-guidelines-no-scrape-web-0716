@@ -10,3 +10,6 @@ group "test" do
 end
 
 gem 'twilio-ruby'
+gem 'rest-client'
+gem 'pony'
+

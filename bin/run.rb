@@ -1,3 +1,3 @@
 require_relative '../config/environment'
 
-ExampleCLI.new.call
+Interface.new.call
