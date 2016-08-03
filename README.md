@@ -1,3 +1,5 @@
+# Zoltar
+
 In order to use the great Zoltar fortune teller, you need to follow two simple steps.
 
 1. Run `ruby bin/rb`
